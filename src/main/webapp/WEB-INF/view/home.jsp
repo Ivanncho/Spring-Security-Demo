@@ -21,6 +21,15 @@
 			</p>
 		
 		<hr>
+		<p>
+			<a href="${pageContext.request.contextPath}/leaders">Leadership Meeting</a>(Only for managers)
+		</p>
+		
+		<p>
+			<a href="${pageContext.request.contextPath}/systems">IT Systems Meeting</a>(Only for admins)
+		</p>
+		
+		<hr>
 		
 		<!-- Add a logout button -->
 		
